@@ -7362,8 +7362,8 @@ class HomeKitCard extends LitElement {
       .button.height-6 {
         height:calc(var(--tile-height, 100px) * 7.3);
       }
-      .button.height-75 {
-        height:calc(var(--tile-height, 100px) * 0.75);
+      .button.height-custom {
+        height:calc(var(--tile-height, 100px) * 0.7);
       }
       .button.height-half {
         height:calc(var(--tile-height, 100px) * 0.5);
